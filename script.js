@@ -5,7 +5,7 @@ const gif = document.getElementById("gif");
 let noCount = 1;
 
 const gifs = [
-    "images/7c0528.jpg",
+    "images/1st.gif",
     "images/nailong-yellow-dragon.gif",
     "images/sad-orange-cat-sad-cat.gif",
     "images/ok-cat-okay-cat.gif",
@@ -86,5 +86,6 @@ yesBtn.addEventListener("click", () => {
         document.body.appendChild(img);
     }
 });
+
 
 
